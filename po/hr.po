@@ -1960,7 +1960,7 @@ msgid "Configure how many channels are shown in the selection list."
 msgstr "Konfigurirajte koliko kanala želite prikazati na popisu za odabir kanala."
 
 msgid "Configure how recording filenames are constructed."
-msgstr "Konfigurirajte koliko kanala želite prikazati na popisu za odabir kanala."
+msgstr "Konfigurirajte način na koji se kreiraju nazivi datoteka za snimanje."
 
 msgid "Configure how the fan should operate"
 msgstr "Postavljanje načina rada ventilatora"
@@ -10425,7 +10425,7 @@ msgid "Watch recordings..."
 msgstr "Pregledajte snimke..."
 
 msgid "Wed"
-msgstr "Srijeda"
+msgstr "Sri"
 
 msgid "Wednesday"
 msgstr "Srijeda"
